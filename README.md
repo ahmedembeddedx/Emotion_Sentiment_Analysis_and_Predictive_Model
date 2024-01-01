@@ -1,9 +1,6 @@
-Certainly! Here's a basic template for your README.md file. Remember to update it as your project evolves and add more details about its functionalities, usage, and any other relevant information.
-
-```markdown
 # Emotional Sentiment Analysis and Predictive Model
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedx/Emotional_Sentiment_Analysis_and_Predictive_Model/blob/main/LICENSE)
 
 ## Overview
 
