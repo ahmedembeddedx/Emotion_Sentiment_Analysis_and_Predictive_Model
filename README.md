@@ -6,7 +6,11 @@
 
 This repository contains the code and resources for an Emotional Sentiment Analysis and Predictive Model. The project aims to analyze textual data and predict emotional sentiments using machine learning techniques.
 
-
+<a href="https://ibb.co/R77zKnP"><img src="https://i.ibb.co/x33JbvG/download.png" alt="download" border="0"></a>
+<a href="https://ibb.co/wKTXDmN"><img src="https://i.ibb.co/y8D1Ljn/Screenshot-2024-03-24-at-12-12-54-AM.png" alt="Screenshot-2024-03-24-at-12-12-54-AM" border="0"></a>
+<a href="https://ibb.co/0n4YC2T"><img src="https://i.ibb.co/10yRrQ1/Screenshot-2024-03-24-at-12-13-02-AM.png" alt="Screenshot-2024-03-24-at-12-13-02-AM" border="0"></a>
+<a href="https://ibb.co/k6wsf8c"><img src="https://i.ibb.co/5xSgy8c/Screenshot-2024-03-24-at-12-13-52-AM.png" alt="Screenshot-2024-03-24-at-12-13-52-AM" border="0"></a>
+<a href="https://ibb.co/ByDG8Kt"><img src="https://i.ibb.co/wSH7DrR/Screenshot-2024-03-24-at-12-14-03-AM.png" alt="Screenshot-2024-03-24-at-12-14-03-AM" border="0"></a>
 
 ## Table of Contents
 
